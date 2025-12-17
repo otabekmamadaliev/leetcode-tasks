@@ -16,8 +16,11 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 """
 
+from typing import List
+
+
 class Solution:
-    def removeDuplicates(self, nums):
+    def removeDuplicates(self, nums: List[int]) -> int:
         slow = 0
         for num in nums:
             if slow < 2 or num != nums[slow-2]:

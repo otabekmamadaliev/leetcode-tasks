@@ -17,8 +17,11 @@ Time Complexity: O(m + n)
 Space Complexity: O(1)
 """
 
+from typing import List
+
+
 class Solution:
-    def merge(self, nums1, m, nums2, n):
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         i = m - 1
         j = n - 1
         k = m + n - 1
