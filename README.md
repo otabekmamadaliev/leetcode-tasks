@@ -9,6 +9,7 @@ A collection of LeetCode problem solutions implemented in Python, Java, and C++.
 | # | Title | Difficulty | Solutions |
 |---|-------|-----------|-----------|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](leetcode_11/solution.py) · [Java](leetcode_11/solution.java) · [C++](leetcode_11/solution.cpp) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](leetcode_49/solution.py) · [Java](leetcode_49/solution.java) · [C++](leetcode_49/solution.cpp) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Python](leetcode_80/solution.py) · [Java](leetcode_80/solution.java) · [C++](leetcode_80/solution.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Python](leetcode_88/solution.py) · [Java](leetcode_88/solution.java) · [C++](leetcode_88/solution.cpp) |
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/) | Medium | [Python](leetcode_3634/solution.py) · [Java](leetcode_3634/solution.java) · [C++](leetcode_3634/solution.cpp) |
