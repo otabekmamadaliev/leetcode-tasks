@@ -18,6 +18,10 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 */
 
+#include <algorithm>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int maxArea(vector<int>& height) {
